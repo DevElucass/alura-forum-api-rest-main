@@ -47,7 +47,7 @@ java -D"spring.profiles.active=prod" -DJWT_SECRET=12345678 -DDATASOURCE_URL=jdbc
 ```
 ### Guia completo das funcões da API, quando o aplicativo em execução:
 ```
-http://localhost:8080/swagger-ui/index.html
+http://localhost:8080/swagger-ui/index.htm
 ```
 
 ![alura-forum-api](https://github.com/enivaldo20/alura-forum-api-rest/assets)

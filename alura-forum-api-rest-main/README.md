@@ -1,3 +1,4 @@
+![Bage Hotel Alura 1](https://github.com/enivaldo20/alura-forum-api-rest-main/assets/128000113/5f9929e6-1b82-473d-8950-a7f513e8aa48)
 # [Forum Alura](https://www.alura.com.br/)
 ### Challenge ONE Back End Java + Spring
 ## Desafio:
